@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Environment & Local State
+.env
+.env.local
+demo-app/.env.local
+backend/.flagpilot_runs.json
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
